@@ -10,8 +10,8 @@ This repository contains a Python script designed to automate the process of rep
 
 ## Clone Repository:
 ```bash
-git clone https://github.com/yourusername/csgo-cheater-reporting-script.git
-cd csgo-cheater-reporting-script
+git clone https://github.com/ThatNotEasy/ReportBot-CSGO.git
+cd ReportBot-CSGO
 ```
 ## Install Dependencies:
 ```bash
